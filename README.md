@@ -7,31 +7,50 @@ Repositorio canónico del catálogo musical de **Iyari Gomez / BlackMamba RECORD
 | Fuente | Lanzamientos | Canciones |
 |---|---:|---:|
 | DistroKid | 230 | 274 |
-| SoundCloud (perfil público) | 1,034 pistas | Pendiente de normalización |
+| SoundCloud (perfil público) | — | 1,034 pistas |
 
-## Archivos
+## Catálogo disponible
 
-- `catalog/distrokid_catalog.csv`: una fila por canción, listo para Excel, análisis y cruces.
-- `catalog/distrokid_catalog.json`: estructura lanzamiento → canciones para automatización.
-- `sources/distrokid_lyrics_export.txt`: fuente textual original utilizada para reconstruir el catálogo.
+- `catalog/distrokid_catalog.csv`: una fila por canción.
+- `catalog/distrokid_catalog.json`: estructura lanzamiento → canciones.
+- `sources/distrokid_lyrics_export.txt`: fuente original del catálogo.
+- `scripts/reconcile_catalogs.py`: motor de reconciliación SoundCloud ↔ DistroKid.
+- `docs/RECONCILIATION.md`: contrato operativo y formatos.
 
-## Criterio canónico
+## Reconciliación
 
-El conteo de DistroKid proviene del listado detallado de letras, porque incluye las canciones internas de cada lanzamiento y evita las omisiones causadas por capturas con desplazamiento.
+El motor clasifica cada canción en:
 
-### Resumen DistroKid
+1. presente en ambas plataformas;
+2. exclusiva de SoundCloud;
+3. distribuida por DistroKid pero ausente en SoundCloud;
+4. coincidencia ambigua pendiente de revisión.
+
+Usa aliases confirmados, normalización Unicode, títulos base y similitud difusa conservadora. Nunca fuerza coincidencias ambiguas.
+
+### Ejecución
+
+Guarda la exportación completa como `sources/soundcloud_tracks_public.json` y ejecuta:
+
+```bash
+python scripts/reconcile_catalogs.py
+```
+
+Resultados:
+
+- `reports/matched.csv`
+- `reports/soundcloud_only.csv`
+- `reports/distrokid_only.csv`
+- `reports/needs_review.csv`
+- `reports/summary.json`
+
+## Resumen DistroKid
 
 - Lanzamientos: **230**
 - Canciones: **274**
 - Singles: **194**
 - Lanzamientos con varias canciones: **36**
 
-## Próxima fase
+## Calidad
 
-Normalizar títulos y cruzar DistroKid contra SoundCloud para clasificar:
-
-- publicado en ambas plataformas;
-- exclusivo de SoundCloud;
-- distribuido por DistroKid;
-- duplicados, versiones y títulos reutilizados;
-- pendiente de distribución.
+GitHub Actions ejecuta pruebas automáticas del normalizador y del clasificador en cada cambio relevante.
