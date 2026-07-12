@@ -1,0 +1,2720 @@
+{
+  "schema_version": "1.0",
+  "source": "DistroKid lyrics catalog export",
+  "artist": "Iyari Gomez",
+  "generated_from": "Pasted text.txt",
+  "summary": {
+    "releases": 230,
+    "tracks": 274,
+    "multi_track_releases": 36,
+    "singles": 194
+  },
+  "releases": [
+    {
+      "release": "Adoracion",
+      "artist": "Iyari Gomez",
+      "track_count": 1,
+      "tracks": [
+        {
+          "title": "Adoracion",
+          "lyrics_status": "Letras sin formato Letras sincronizadas"
+        }
+      ]
+    },
+    {
+      "release": "Agua",
+      "artist": "Iyari Gomez",
+      "track_count": 1,
+      "tracks": [
+        {
+          "title": "Agua",
+          "lyrics_status": "Letras sin formato Letras sincronizadas"
+        }
+      ]
+    },
+    {
+      "release": "Ahmed Qalbi",
+      "artist": "Iyari Gomez",
+      "track_count": 1,
+      "tracks": [
+        {
+          "title": "Ahmed Qalbi",
+          "lyrics_status": "Letras sin formato Letras sincronizadas"
+        }
+      ]
+    },
+    {
+      "release": "Alex Suarez",
+      "artist": "Iyari Gomez",
+      "track_count": 2,
+      "tracks": [
+        {
+          "title": "Alex",
+          "lyrics_status": "Letras sin formato Letras sincronizadas"
+        },
+        {
+          "title": "Suarez",
+          "lyrics_status": "Letras sin formato Letras sincronizadas"
+        }
+      ]
+    },
+    {
+      "release": "Alma Eterna",
+      "artist": "Iyari Gomez",
+      "track_count": 1,
+      "tracks": [
+        {
+          "title": "Alma Eterna",
+          "lyrics_status": "Letras sin formato Letras sincronizadas"
+        }
+      ]
+    },
+    {
+      "release": "ALV",
+      "artist": "Iyari Gomez",
+      "track_count": 1,
+      "tracks": [
+        {
+          "title": "ALV",
+          "lyrics_status": "Letras sin formato Letras sincronizadas"
+        }
+      ]
+    },
+    {
+      "release": "America",
+      "artist": "Iyari Gomez",
+      "track_count": 1,
+      "tracks": [
+        {
+          "title": "America",
+          "lyrics_status": "Letras sin formato Letras sincronizadas"
+        }
+      ]
+    },
+    {
+      "release": "America",
+      "artist": "Iyari Gomez",
+      "track_count": 2,
+      "tracks": [
+        {
+          "title": "Sonrisa",
+          "lyrics_status": "Letras sin formato Letras sincronizadas"
+        },
+        {
+          "title": "Regresar",
+          "lyrics_status": "Letras sin formato Letras sincronizadas"
+        }
+      ]
+    },
+    {
+      "release": "Amor",
+      "artist": "Iyari Gomez",
+      "track_count": 1,
+      "tracks": [
+        {
+          "title": "Amor",
+          "lyrics_status": "Letras sin formato Letras sincronizadas"
+        }
+      ]
+    },
+    {
+      "release": "Amor Fugaz",
+      "artist": "Iyari Gomez",
+      "track_count": 1,
+      "tracks": [
+        {
+          "title": "Amor Fugaz",
+          "lyrics_status": "Letras sin formato Letras sincronizadas"
+        }
+      ]
+    },
+    {
+      "release": "Amor Live",
+      "artist": "Iyari Gomez",
+      "track_count": 1,
+      "tracks": [
+        {
+          "title": "Amor Live",
+          "lyrics_status": "Letras sin formato Letras sincronizadas"
+        }
+      ]
+    },
+    {
+      "release": "Amor que no se explica",
+      "artist": "Iyari Gomez",
+      "track_count": 1,
+      "tracks": [
+        {
+          "title": "Amor que no se explica",
+          "lyrics_status": "Letras sin formato Letras sincronizadas"
+        }
+      ]
+    },
+    {
+      "release": "Ancestral",
+      "artist": "Iyari Gomez",
+      "track_count": 1,
+      "tracks": [
+        {
+          "title": "Ancestral",
+          "lyrics_status": "Letras sin formato Letras sincronizadas"
+        }
+      ]
+    },
+    {
+      "release": "Andrey",
+      "artist": "Iyari Gomez",
+      "track_count": 1,
+      "tracks": [
+        {
+          "title": "Andrey",
+          "lyrics_status": "Letras sin formato Letras sincronizadas"
+        }
+      ]
+    },
+    {
+      "release": "Anel Cruz",
+      "artist": "Iyari Gomez",
+      "track_count": 2,
+      "tracks": [
+        {
+          "title": "Anel",
+          "lyrics_status": "Letras sin formato Letras sincronizadas"
+        },
+        {
+          "title": "Cruz",
+          "lyrics_status": "Letras sin formato Letras sincronizadas"
+        }
+      ]
+    },
+    {
+      "release": "Angel Torres",
+      "artist": "Iyari Gomez",
+      "track_count": 2,
+      "tracks": [
+        {
+          "title": "Nombre en la Piel",
+          "lyrics_status": "Letras sin formato Letras sincronizadas"
+        },
+        {
+          "title": "Destino Fiel",
+          "lyrics_status": "Letras sin formato Letras sincronizadas"
+        }
+      ]
+    },
+    {
+      "release": "Angie Ibarra",
+      "artist": "Iyari Gomez",
+      "track_count": 2,
+      "tracks": [
+        {
+          "title": "Angie",
+          "lyrics_status": "Letras sin formato Letras sincronizadas"
+        },
+        {
+          "title": "Ibarra",
+          "lyrics_status": "Letras sin formato Letras sincronizadas"
+        }
+      ]
+    },
+    {
+      "release": "Animal Circus",
+      "artist": "Iyari Gomez",
+      "track_count": 1,
+      "tracks": [
+        {
+          "title": "Animal Circus",
+          "lyrics_status": "Letras sin formato Letras sincronizadas"
+        }
+      ]
+    },
+    {
+      "release": "Anna Cortes",
+      "artist": "Iyari Gomez",
+      "track_count": 1,
+      "tracks": [
+        {
+          "title": "Anna Cortes",
+          "lyrics_status": "Letras sin formato Letras sincronizadas"
+        }
+      ]
+    },
+    {
+      "release": "Araceli",
+      "artist": "Iyari Gomez",
+      "track_count": 2,
+      "tracks": [
+        {
+          "title": "No es Casualidad",
+          "lyrics_status": "Letras sin formato Letras sincronizadas"
+        },
+        {
+          "title": "Aracelii",
+          "lyrics_status": "Letras sin formato Letras sincronizadas"
+        }
+      ]
+    },
+    {
+      "release": "Aranza Ibañez",
+      "artist": "Iyari Gomez",
+      "track_count": 2,
+      "tracks": [
+        {
+          "title": "Aranza",
+          "lyrics_status": "Letras sin formato Letras sincronizadas"
+        },
+        {
+          "title": "Ibañez",
+          "lyrics_status": "Letras sin formato Letras sincronizadas"
+        }
+      ]
+    },
+    {
+      "release": "AriaNear",
+      "artist": "Iyari Gomez",
+      "track_count": 2,
+      "tracks": [
+        {
+          "title": "Near",
+          "lyrics_status": "Letras sin formato Letras sincronizadas"
+        },
+        {
+          "title": "Aria",
+          "lyrics_status": "Letras sin formato Letras sincronizadas"
+        }
+      ]
+    },
+    {
+      "release": "Azareel Light of the Nilo",
+      "artist": "Iyari Gomez",
+      "track_count": 4,
+      "tracks": [
+        {
+          "title": "Azareel Light of the Nile",
+          "lyrics_status": "Letras sin formato Letras sincronizadas"
+        },
+        {
+          "title": "Azareel",
+          "lyrics_status": "Letras sin formato Letras sincronizadas"
+        },
+        {
+          "title": "Luz",
+          "lyrics_status": "Letras sin formato Letras sincronizadas"
+        },
+        {
+          "title": "Azareel del Nilo",
+          "lyrics_status": "Letras sin formato Letras sincronizadas"
+        }
+      ]
+    },
+    {
+      "release": "Bailame Lento",
+      "artist": "Iyari Gomez",
+      "track_count": 2,
+      "tracks": [
+        {
+          "title": "Bailame",
+          "lyrics_status": "Letras sin formato Letras sincronizadas"
+        },
+        {
+          "title": "Lento",
+          "lyrics_status": "Letras sin formato Letras sincronizadas"
+        }
+      ]
+    },
+    {
+      "release": "Belari Filobello",
+      "artist": "Iyari Gomez",
+      "track_count": 2,
+      "tracks": [
+        {
+          "title": "The Only Word I Need",
+          "lyrics_status": "Letras sin formato Letras sincronizadas"
+        },
+        {
+          "title": "The only",
+          "lyrics_status": "Letras sin formato Letras sincronizadas"
+        }
+      ]
+    },
+    {
+      "release": "Belen",
+      "artist": "Iyari Gomez",
+      "track_count": 1,
+      "tracks": [
+        {
+          "title": "Belen",
+          "lyrics_status": "Letras sin formato Letras sincronizadas"
+        }
+      ]
+    },
+    {
+      "release": "Belinda",
+      "artist": "Iyari Gomez",
+      "track_count": 1,
+      "tracks": [
+        {
+          "title": "Belinda",
+          "lyrics_status": "Letras sin formato Letras sincronizadas"
+        }
+      ]
+    },
+    {
+      "release": "Besame",
+      "artist": "Iyari Gomez",
+      "track_count": 1,
+      "tracks": [
+        {
+          "title": "Besame",
+          "lyrics_status": "Letras sin formato Letras sincronizadas"
+        }
+      ]
+    },
+    {
+      "release": "Betsy MIllan",
+      "artist": "Iyari Gomez",
+      "track_count": 1,
+      "tracks": [
+        {
+          "title": "Betsy MIllan",
+          "lyrics_status": "Letras sin formato Letras sincronizadas"
+        }
+      ]
+    },
+    {
+      "release": "Beyond",
+      "artist": "Iyari Gomez",
+      "track_count": 1,
+      "tracks": [
+        {
+          "title": "Beyond",
+          "lyrics_status": "Letras sin formato Letras sincronizadas"
+        }
+      ]
+    },
+    {
+      "release": "Beyond the orbit",
+      "artist": "Iyari Gomez",
+      "track_count": 1,
+      "tracks": [
+        {
+          "title": "Beyond the orbit",
+          "lyrics_status": "Letras sin formato Letras sincronizadas"
+        }
+      ]
+    },
+    {
+      "release": "Black",
+      "artist": "Iyari Gomez",
+      "track_count": 1,
+      "tracks": [
+        {
+          "title": "Black",
+          "lyrics_status": "Letras sin formato Letras sincronizadas"
+        }
+      ]
+    },
+    {
+      "release": "Black Mamba",
+      "artist": "Iyari Gomez",
+      "track_count": 1,
+      "tracks": [
+        {
+          "title": "Black Mamba",
+          "lyrics_status": "Letras sin formato Letras sincronizadas"
+        }
+      ]
+    },
+    {
+      "release": "BlackMamba Forever",
+      "artist": "Iyari Gomez",
+      "track_count": 1,
+      "tracks": [
+        {
+          "title": "BlackMamba Forever",
+          "lyrics_status": "Letras sin formato Letras sincronizadas"
+        }
+      ]
+    },
+    {
+      "release": "BlackMamba Rise",
+      "artist": "Iyari Gomez",
+      "track_count": 1,
+      "tracks": [
+        {
+          "title": "BlackMamba Rise",
+          "lyrics_status": "Letras sin formato Letras sincronizadas"
+        }
+      ]
+    },
+    {
+      "release": "Bolo",
+      "artist": "Iyari Gomez",
+      "track_count": 1,
+      "tracks": [
+        {
+          "title": "Bolo",
+          "lyrics_status": "Letras sin formato Letras sincronizadas"
+        }
+      ]
+    },
+    {
+      "release": "Bones",
+      "artist": "Iyari Gomez",
+      "track_count": 1,
+      "tracks": [
+        {
+          "title": "Bones",
+          "lyrics_status": "Letras sin formato Letras sincronizadas"
+        }
+      ]
+    },
+    {
+      "release": "Broken",
+      "artist": "Iyari Gomez",
+      "track_count": 1,
+      "tracks": [
+        {
+          "title": "Broken",
+          "lyrics_status": "Letras sin formato Letras sincronizadas"
+        }
+      ]
+    },
+    {
+      "release": "Bullet v",
+      "artist": "Iyari Gomez",
+      "track_count": 1,
+      "tracks": [
+        {
+          "title": "Bullet v",
+          "lyrics_status": "Letras sin formato Letras sincronizadas"
+        }
+      ]
+    },
+    {
+      "release": "By the Way",
+      "artist": "Iyari Gomez",
+      "track_count": 1,
+      "tracks": [
+        {
+          "title": "By the Way",
+          "lyrics_status": "Letras sin formato Letras sincronizadas"
+        }
+      ]
+    },
+    {
+      "release": "caffeine",
+      "artist": "Iyari Gomez",
+      "track_count": 1,
+      "tracks": [
+        {
+          "title": "caffeine",
+          "lyrics_status": "Letras sin formato Letras sincronizadas"
+        }
+      ]
+    },
+    {
+      "release": "Caffeine Dreams",
+      "artist": "Iyari Gomez",
+      "track_count": 1,
+      "tracks": [
+        {
+          "title": "Caffeine Dreams",
+          "lyrics_status": "Letras sin formato Letras sincronizadas"
+        }
+      ]
+    },
+    {
+      "release": "Calibre 22",
+      "artist": "Iyari Gomez",
+      "track_count": 1,
+      "tracks": [
+        {
+          "title": "Calibre 22",
+          "lyrics_status": "Letras sin formato Letras sincronizadas"
+        }
+      ]
+    },
+    {
+      "release": "California",
+      "artist": "Iyari Gomez",
+      "track_count": 1,
+      "tracks": [
+        {
+          "title": "California",
+          "lyrics_status": "Letras sin formato Letras sincronizadas"
+        }
+      ]
+    },
+    {
+      "release": "Camper",
+      "artist": "Iyari Gomez",
+      "track_count": 1,
+      "tracks": [
+        {
+          "title": "Camper",
+          "lyrics_status": "Letras sin formato Letras sincronizadas"
+        }
+      ]
+    },
+    {
+      "release": "Carlos Regresa Al Camino",
+      "artist": "Iyari Gomez",
+      "track_count": 1,
+      "tracks": [
+        {
+          "title": "Carlos Regresa Al Camino",
+          "lyrics_status": "Letras sin formato Letras sincronizadas"
+        }
+      ]
+    },
+    {
+      "release": "Carmesi",
+      "artist": "Iyari Gomez",
+      "track_count": 1,
+      "tracks": [
+        {
+          "title": "Carmesi",
+          "lyrics_status": "Letras sin formato Letras sincronizadas"
+        }
+      ]
+    },
+    {
+      "release": "Carnaval",
+      "artist": "Iyari Gomez",
+      "track_count": 1,
+      "tracks": [
+        {
+          "title": "Carnaval",
+          "lyrics_status": "Letras sin formato Letras sincronizadas"
+        }
+      ]
+    },
+    {
+      "release": "Caro",
+      "artist": "Iyari Gomez",
+      "track_count": 1,
+      "tracks": [
+        {
+          "title": "Caro",
+          "lyrics_status": "Letras sin formato Letras sincronizadas"
+        }
+      ]
+    },
+    {
+      "release": "Chains",
+      "artist": "Iyari Gomez",
+      "track_count": 1,
+      "tracks": [
+        {
+          "title": "Chains",
+          "lyrics_status": "Letras sin formato Letras sincronizadas"
+        }
+      ]
+    },
+    {
+      "release": "Cinthia",
+      "artist": "Iyari Gomez",
+      "track_count": 1,
+      "tracks": [
+        {
+          "title": "Cinthia",
+          "lyrics_status": "Letras sin formato Letras sincronizadas"
+        }
+      ]
+    },
+    {
+      "release": "Circus Party",
+      "artist": "Iyari Gomez",
+      "track_count": 1,
+      "tracks": [
+        {
+          "title": "Circus Party",
+          "lyrics_status": "Letras sin formato Letras sincronizadas"
+        }
+      ]
+    },
+    {
+      "release": "Citlali",
+      "artist": "Iyari Gomez",
+      "track_count": 1,
+      "tracks": [
+        {
+          "title": "Citlali",
+          "lyrics_status": "Letras sin formato Letras sincronizadas"
+        }
+      ]
+    },
+    {
+      "release": "Clara Caccia",
+      "artist": "Iyari Gomez",
+      "track_count": 1,
+      "tracks": [
+        {
+          "title": "Clara Caccia",
+          "lyrics_status": "Letras sin formato Letras sincronizadas"
+        }
+      ]
+    },
+    {
+      "release": "Constelacion",
+      "artist": "Iyari Gomez",
+      "track_count": 2,
+      "tracks": [
+        {
+          "title": "Dentro de mi",
+          "lyrics_status": "Letras sin formato Letras sincronizadas"
+        },
+        {
+          "title": "Sombra con Luz",
+          "lyrics_status": "Letras sin formato Letras sincronizadas"
+        }
+      ]
+    },
+    {
+      "release": "Cry Tonight",
+      "artist": "Iyari Gomez",
+      "track_count": 1,
+      "tracks": [
+        {
+          "title": "Cry Tonight",
+          "lyrics_status": "Letras sin formato Letras sincronizadas"
+        }
+      ]
+    },
+    {
+      "release": "Cuando No Estas Cerca",
+      "artist": "Iyari Gomez",
+      "track_count": 1,
+      "tracks": [
+        {
+          "title": "Cuando No Estas Cerca",
+          "lyrics_status": "Letras sin formato Letras sincronizadas"
+        }
+      ]
+    },
+    {
+      "release": "Dariana",
+      "artist": "Iyari Gomez",
+      "track_count": 1,
+      "tracks": [
+        {
+          "title": "Dariana",
+          "lyrics_status": "Letras sin formato Letras sincronizadas"
+        }
+      ]
+    },
+    {
+      "release": "David Newton",
+      "artist": "Iyari Gomez",
+      "track_count": 2,
+      "tracks": [
+        {
+          "title": "David Newton l",
+          "lyrics_status": "Letras sin formato Letras sincronizadas"
+        },
+        {
+          "title": "David Newton ll",
+          "lyrics_status": "Letras sin formato Letras sincronizadas"
+        }
+      ]
+    },
+    {
+      "release": "De cero a 100",
+      "artist": "Iyari Gomez",
+      "track_count": 1,
+      "tracks": [
+        {
+          "title": "De cero a 100",
+          "lyrics_status": "Letras sin formato Letras sincronizadas"
+        }
+      ]
+    },
+    {
+      "release": "Delirio de Flores",
+      "artist": "Iyari Gomez",
+      "track_count": 1,
+      "tracks": [
+        {
+          "title": "Delirio de Flores",
+          "lyrics_status": "Letras sin formato Letras sincronizadas"
+        }
+      ]
+    },
+    {
+      "release": "Dia de Muertos",
+      "artist": "Iyari Gomez",
+      "track_count": 2,
+      "tracks": [
+        {
+          "title": "Dia de Muertos",
+          "lyrics_status": "Letras sin formato Letras sincronizadas"
+        },
+        {
+          "title": "Dime",
+          "lyrics_status": "Letras sin formato Letras sincronizadas"
+        }
+      ]
+    },
+    {
+      "release": "Dylan Gael",
+      "artist": "Iyari Gomez",
+      "track_count": 2,
+      "tracks": [
+        {
+          "title": "Dylan Gael",
+          "lyrics_status": "Letras sin formato Letras sincronizadas"
+        },
+        {
+          "title": "Gael Dylan",
+          "lyrics_status": "Letras sin formato Letras sincronizadas"
+        }
+      ]
+    },
+    {
+      "release": "Egypt I",
+      "artist": "Iyari Gomez",
+      "track_count": 1,
+      "tracks": [
+        {
+          "title": "Egypt I",
+          "lyrics_status": "Letras sin formato Letras sincronizadas"
+        }
+      ]
+    },
+    {
+      "release": "El Honey",
+      "artist": "Iyari Gomez",
+      "track_count": 1,
+      "tracks": [
+        {
+          "title": "El Honey",
+          "lyrics_status": "Letras sin formato Letras sincronizadas"
+        }
+      ]
+    },
+    {
+      "release": "Electric Daydreams",
+      "artist": "Iyari Gomez",
+      "track_count": 1,
+      "tracks": [
+        {
+          "title": "Electric Daydreams",
+          "lyrics_status": "Letras sin formato Letras sincronizadas"
+        }
+      ]
+    },
+    {
+      "release": "Elisa",
+      "artist": "Iyari Gomez",
+      "track_count": 1,
+      "tracks": [
+        {
+          "title": "Elisa",
+          "lyrics_status": "Letras sin formato Letras sincronizadas"
+        }
+      ]
+    },
+    {
+      "release": "Emotional",
+      "artist": "Iyari Gomez",
+      "track_count": 1,
+      "tracks": [
+        {
+          "title": "Emotional",
+          "lyrics_status": "Letras sin formato Letras sincronizadas"
+        }
+      ]
+    },
+    {
+      "release": "En la penumbra",
+      "artist": "Iyari Gomez",
+      "track_count": 1,
+      "tracks": [
+        {
+          "title": "En la penumbra",
+          "lyrics_status": "Letras sin formato Letras sincronizadas"
+        }
+      ]
+    },
+    {
+      "release": "Energia Infinita",
+      "artist": "Iyari Gomez",
+      "track_count": 1,
+      "tracks": [
+        {
+          "title": "Energia Infinita",
+          "lyrics_status": "Letras sin formato Letras sincronizadas"
+        }
+      ]
+    },
+    {
+      "release": "Entiende",
+      "artist": "Iyari Gomez",
+      "track_count": 1,
+      "tracks": [
+        {
+          "title": "Entiende",
+          "lyrics_status": "Letras sin formato Letras sincronizadas"
+        }
+      ]
+    },
+    {
+      "release": "Entre el humo y la llama",
+      "artist": "Iyari Gomez",
+      "track_count": 1,
+      "tracks": [
+        {
+          "title": "Entre el humo y la llama",
+          "lyrics_status": "Letras sin formato Letras sincronizadas"
+        }
+      ]
+    },
+    {
+      "release": "Equipo Letal",
+      "artist": "Iyari Gomez",
+      "track_count": 1,
+      "tracks": [
+        {
+          "title": "Equipo Letal",
+          "lyrics_status": "Letras sin formato Letras sincronizadas"
+        }
+      ]
+    },
+    {
+      "release": "Eres tu",
+      "artist": "Iyari Gomez",
+      "track_count": 1,
+      "tracks": [
+        {
+          "title": "Eres tu",
+          "lyrics_status": "Letras sin formato Letras sincronizadas"
+        }
+      ]
+    },
+    {
+      "release": "Espacio",
+      "artist": "Iyari Gomez",
+      "track_count": 1,
+      "tracks": [
+        {
+          "title": "Espacio",
+          "lyrics_status": "Letras sin formato Letras sincronizadas"
+        }
+      ]
+    },
+    {
+      "release": "Espejo Vibrante",
+      "artist": "Iyari Gomez",
+      "track_count": 1,
+      "tracks": [
+        {
+          "title": "Espejo Vibrante",
+          "lyrics_status": "Letras sin formato Letras sincronizadas"
+        }
+      ]
+    },
+    {
+      "release": "Estas Cerca",
+      "artist": "Iyari Gomez",
+      "track_count": 1,
+      "tracks": [
+        {
+          "title": "Estas Cerca",
+          "lyrics_status": "Letras sin formato Letras sincronizadas"
+        }
+      ]
+    },
+    {
+      "release": "EternalFrequency",
+      "artist": "Iyari Gomez",
+      "track_count": 1,
+      "tracks": [
+        {
+          "title": "EternalFrequency",
+          "lyrics_status": "Letras sin formato Letras sincronizadas"
+        }
+      ]
+    },
+    {
+      "release": "Explosive",
+      "artist": "Iyari Gomez",
+      "track_count": 1,
+      "tracks": [
+        {
+          "title": "Explosive",
+          "lyrics_status": "Letras sin formato Letras sincronizadas"
+        }
+      ]
+    },
+    {
+      "release": "Eyes are diamonds",
+      "artist": "Iyari Gomez",
+      "track_count": 1,
+      "tracks": [
+        {
+          "title": "Eyes are diamonds",
+          "lyrics_status": "Letras sin formato Letras sincronizadas"
+        }
+      ]
+    },
+    {
+      "release": "Fade",
+      "artist": "Iyari Gomez",
+      "track_count": 1,
+      "tracks": [
+        {
+          "title": "Fade",
+          "lyrics_status": "Letras sin formato Letras sincronizadas"
+        }
+      ]
+    },
+    {
+      "release": "Fade Away",
+      "artist": "Iyari Gomez",
+      "track_count": 1,
+      "tracks": [
+        {
+          "title": "Fade Away",
+          "lyrics_status": "Letras sin formato Letras sincronizadas"
+        }
+      ]
+    },
+    {
+      "release": "FancyBoy",
+      "artist": "Iyari Gomez",
+      "track_count": 2,
+      "tracks": [
+        {
+          "title": "Fancy",
+          "lyrics_status": "Letras sin formato Letras sincronizadas"
+        },
+        {
+          "title": "FligthMode",
+          "lyrics_status": "Letras sin formato Letras sincronizadas"
+        }
+      ]
+    },
+    {
+      "release": "Fani",
+      "artist": "Iyari Gomez",
+      "track_count": 1,
+      "tracks": [
+        {
+          "title": "Fani",
+          "lyrics_status": "Letras sin formato Letras sincronizadas"
+        }
+      ]
+    },
+    {
+      "release": "Feel The Vibration",
+      "artist": "Iyari Gomez",
+      "track_count": 1,
+      "tracks": [
+        {
+          "title": "Feel The Vibration",
+          "lyrics_status": "Letras sin formato Letras sincronizadas"
+        }
+      ]
+    },
+    {
+      "release": "Fire",
+      "artist": "Iyari Gomez",
+      "track_count": 1,
+      "tracks": [
+        {
+          "title": "Fire",
+          "lyrics_status": "Letras sin formato Letras sincronizadas"
+        }
+      ]
+    },
+    {
+      "release": "Fotos Antiguas",
+      "artist": "Iyari Gomez",
+      "track_count": 1,
+      "tracks": [
+        {
+          "title": "Fotos Antiguas",
+          "lyrics_status": "Letras sin formato Letras sincronizadas"
+        }
+      ]
+    },
+    {
+      "release": "Found this way",
+      "artist": "Iyari Gomez",
+      "track_count": 1,
+      "tracks": [
+        {
+          "title": "Found this way",
+          "lyrics_status": "Letras sin formato Letras sincronizadas"
+        }
+      ]
+    },
+    {
+      "release": "Gravedad",
+      "artist": "Iyari Gomez",
+      "track_count": 1,
+      "tracks": [
+        {
+          "title": "Gravedad",
+          "lyrics_status": "Letras sin formato Letras sincronizadas"
+        }
+      ]
+    },
+    {
+      "release": "Habitacion 503",
+      "artist": "Iyari Gomez",
+      "track_count": 1,
+      "tracks": [
+        {
+          "title": "Habitacion 503",
+          "lyrics_status": "Letras sin formato Letras sincronizadas"
+        }
+      ]
+    },
+    {
+      "release": "High as the Moon",
+      "artist": "Iyari Gomez",
+      "track_count": 1,
+      "tracks": [
+        {
+          "title": "High as the Moon",
+          "lyrics_status": "Letras sin formato Letras sincronizadas"
+        }
+      ]
+    },
+    {
+      "release": "I Never Surrender, I Never Bow",
+      "artist": "Iyari Gomez",
+      "track_count": 1,
+      "tracks": [
+        {
+          "title": "I Never Surrender, I Never Bow",
+          "lyrics_status": "Letras sin formato Letras sincronizadas"
+        }
+      ]
+    },
+    {
+      "release": "I promise",
+      "artist": "Iyari Gomez",
+      "track_count": 1,
+      "tracks": [
+        {
+          "title": "I promise",
+          "lyrics_status": "Letras sin formato Letras sincronizadas"
+        }
+      ]
+    },
+    {
+      "release": "Inside your Soul",
+      "artist": "Iyari Gomez",
+      "track_count": 1,
+      "tracks": [
+        {
+          "title": "Inside your Soul",
+          "lyrics_status": "Letras sin formato Letras sincronizadas"
+        }
+      ]
+    },
+    {
+      "release": "Ivy",
+      "artist": "Iyari Gomez",
+      "track_count": 1,
+      "tracks": [
+        {
+          "title": "Ivy",
+          "lyrics_status": "Letras sin formato Letras sincronizadas"
+        }
+      ]
+    },
+    {
+      "release": "Iyari",
+      "artist": "Iyari Gomez",
+      "track_count": 1,
+      "tracks": [
+        {
+          "title": "Iyari",
+          "lyrics_status": "Letras sin formato Letras sincronizadas"
+        }
+      ]
+    },
+    {
+      "release": "Iyari Love",
+      "artist": "Iyari Gomez",
+      "track_count": 1,
+      "tracks": [
+        {
+          "title": "Iyari Love",
+          "lyrics_status": "Letras sin formato Letras sincronizadas"
+        }
+      ]
+    },
+    {
+      "release": "Jacome",
+      "artist": "Iyari Gomez",
+      "track_count": 1,
+      "tracks": [
+        {
+          "title": "Jacome",
+          "lyrics_status": "Letras sin formato Letras sincronizadas"
+        }
+      ]
+    },
+    {
+      "release": "Jaqui Sanchez",
+      "artist": "Iyari Gomez",
+      "track_count": 1,
+      "tracks": [
+        {
+          "title": "Jaqui Sanchez",
+          "lyrics_status": "Letras sin formato Letras sincronizadas"
+        }
+      ]
+    },
+    {
+      "release": "JasonB",
+      "artist": "Iyari Gomez",
+      "track_count": 4,
+      "tracks": [
+        {
+          "title": "Conejo JasonB",
+          "lyrics_status": "Letras sin formato Letras sincronizadas"
+        },
+        {
+          "title": "Conejo JasonBt",
+          "lyrics_status": "Letras sin formato Letras sincronizadas"
+        },
+        {
+          "title": "Conejo Vibes Jason",
+          "lyrics_status": "Letras sin formato Letras sincronizadas"
+        },
+        {
+          "title": "Conejo Vibes JasonB",
+          "lyrics_status": "Letras sin formato Letras sincronizadas"
+        }
+      ]
+    },
+    {
+      "release": "JM.33 La excepción.",
+      "artist": "Iyari Gomez",
+      "track_count": 1,
+      "tracks": [
+        {
+          "title": "JM.33 La excepción.",
+          "lyrics_status": "Letras sin formato Letras sincronizadas"
+        }
+      ]
+    },
+    {
+      "release": "Jose Jimenez",
+      "artist": "Iyari Gomez",
+      "track_count": 1,
+      "tracks": [
+        {
+          "title": "Jose Jimenez",
+          "lyrics_status": "Letras sin formato Letras sincronizadas"
+        }
+      ]
+    },
+    {
+      "release": "June Pyramid",
+      "artist": "Iyari Gomez",
+      "track_count": 1,
+      "tracks": [
+        {
+          "title": "June Pyramid",
+          "lyrics_status": "Letras sin formato Letras sincronizadas"
+        }
+      ]
+    },
+    {
+      "release": "Jungle",
+      "artist": "Iyari Gomez",
+      "track_count": 1,
+      "tracks": [
+        {
+          "title": "Jungle",
+          "lyrics_status": "Letras sin formato Letras sincronizadas"
+        }
+      ]
+    },
+    {
+      "release": "Kiss Me",
+      "artist": "Iyari Gomez",
+      "track_count": 1,
+      "tracks": [
+        {
+          "title": "Kiss Me",
+          "lyrics_status": "Letras sin formato Letras sincronizadas"
+        }
+      ]
+    },
+    {
+      "release": "La Firma",
+      "artist": "Iyari Gomez",
+      "track_count": 1,
+      "tracks": [
+        {
+          "title": "La Firma",
+          "lyrics_status": "Letras sin formato Letras sincronizadas"
+        }
+      ]
+    },
+    {
+      "release": "La muerte",
+      "artist": "Iyari Gomez",
+      "track_count": 1,
+      "tracks": [
+        {
+          "title": "La muerte",
+          "lyrics_status": "Letras sin formato Letras sincronizadas"
+        }
+      ]
+    },
+    {
+      "release": "La Promesa de la Santa",
+      "artist": "Iyari Gomez",
+      "track_count": 1,
+      "tracks": [
+        {
+          "title": "La Promesa de la Santa",
+          "lyrics_status": "Letras sin formato Letras sincronizadas"
+        }
+      ]
+    },
+    {
+      "release": "La Vida",
+      "artist": "Iyari Gomez",
+      "track_count": 1,
+      "tracks": [
+        {
+          "title": "La Vida",
+          "lyrics_status": "Letras sin formato Letras sincronizadas"
+        }
+      ]
+    },
+    {
+      "release": "La Vida es Mejor",
+      "artist": "Iyari Gomez",
+      "track_count": 1,
+      "tracks": [
+        {
+          "title": "La Vida es Mejor",
+          "lyrics_status": "Letras sin formato Letras sincronizadas"
+        }
+      ]
+    },
+    {
+      "release": "Laura Elena",
+      "artist": "Iyari Gomez",
+      "track_count": 1,
+      "tracks": [
+        {
+          "title": "Laura Elena",
+          "lyrics_status": "Letras sin formato Letras sincronizadas"
+        }
+      ]
+    },
+    {
+      "release": "Les Rodriguez",
+      "artist": "Iyari Gomez",
+      "track_count": 1,
+      "tracks": [
+        {
+          "title": "Les Rodriguez",
+          "lyrics_status": "Letras sin formato Letras sincronizadas"
+        }
+      ]
+    },
+    {
+      "release": "LetyMedina",
+      "artist": "Iyari Gomez",
+      "track_count": 1,
+      "tracks": [
+        {
+          "title": "LetyMedina",
+          "lyrics_status": "Letras sin formato Letras sincronizadas"
+        }
+      ]
+    },
+    {
+      "release": "Life",
+      "artist": "Iyari Gomez",
+      "track_count": 1,
+      "tracks": [
+        {
+          "title": "Life",
+          "lyrics_status": "Letras sin formato Letras sincronizadas"
+        }
+      ]
+    },
+    {
+      "release": "Life Life Life",
+      "artist": "Iyari Gomez",
+      "track_count": 1,
+      "tracks": [
+        {
+          "title": "Life Life Life",
+          "lyrics_status": "Letras sin formato Letras sincronizadas"
+        }
+      ]
+    },
+    {
+      "release": "Light Upon",
+      "artist": "Iyari Gomez",
+      "track_count": 1,
+      "tracks": [
+        {
+          "title": "Light Upon",
+          "lyrics_status": "Letras sin formato Letras sincronizadas"
+        }
+      ]
+    },
+    {
+      "release": "Lights",
+      "artist": "Iyari Gomez",
+      "track_count": 1,
+      "tracks": [
+        {
+          "title": "Lights",
+          "lyrics_status": "Letras sin formato Letras sincronizadas"
+        }
+      ]
+    },
+    {
+      "release": "Like a lion",
+      "artist": "Iyari Gomez",
+      "track_count": 1,
+      "tracks": [
+        {
+          "title": "Like a lion",
+          "lyrics_status": "Letras sin formato Letras sincronizadas"
+        }
+      ]
+    },
+    {
+      "release": "Llaves",
+      "artist": "Iyari Gomez",
+      "track_count": 1,
+      "tracks": [
+        {
+          "title": "Llaves",
+          "lyrics_status": "Letras sin formato Letras sincronizadas"
+        }
+      ]
+    },
+    {
+      "release": "Lost",
+      "artist": "Iyari Gomez",
+      "track_count": 1,
+      "tracks": [
+        {
+          "title": "Lost",
+          "lyrics_status": "Letras sin formato Letras sincronizadas"
+        }
+      ]
+    },
+    {
+      "release": "Lost Dream",
+      "artist": "Iyari Gomez",
+      "track_count": 1,
+      "tracks": [
+        {
+          "title": "Lost Dream",
+          "lyrics_status": "Letras sin formato Letras sincronizadas"
+        }
+      ]
+    },
+    {
+      "release": "Love You",
+      "artist": "Iyari Gomez",
+      "track_count": 2,
+      "tracks": [
+        {
+          "title": "Love You",
+          "lyrics_status": "Letras sin formato Letras sincronizadas"
+        },
+        {
+          "title": "I Always",
+          "lyrics_status": "Letras sin formato Letras sincronizadas"
+        }
+      ]
+    },
+    {
+      "release": "Lucy",
+      "artist": "Iyari Gomez",
+      "track_count": 1,
+      "tracks": [
+        {
+          "title": "Lucy",
+          "lyrics_status": "Instrumental"
+        }
+      ]
+    },
+    {
+      "release": "Luis Dueñas",
+      "artist": "Iyari Gomez",
+      "track_count": 1,
+      "tracks": [
+        {
+          "title": "Luis Dueñas",
+          "lyrics_status": "Letras sin formato Letras sincronizadas"
+        }
+      ]
+    },
+    {
+      "release": "Lux Arcan",
+      "artist": "Iyari Gomez",
+      "track_count": 1,
+      "tracks": [
+        {
+          "title": "Lux Arcan",
+          "lyrics_status": "Letras sin formato Letras sincronizadas"
+        }
+      ]
+    },
+    {
+      "release": "Luz",
+      "artist": "Iyari Gomez",
+      "track_count": 1,
+      "tracks": [
+        {
+          "title": "Luz",
+          "lyrics_status": "Letras sin formato Letras sincronizadas"
+        }
+      ]
+    },
+    {
+      "release": "Madman in a Pop-Up Camper",
+      "artist": "Iyari Gomez",
+      "track_count": 1,
+      "tracks": [
+        {
+          "title": "Madman in a Pop-Up Camper",
+          "lyrics_status": "Letras sin formato Letras sincronizadas"
+        }
+      ]
+    },
+    {
+      "release": "MambaMode",
+      "artist": "Iyari Gomez",
+      "track_count": 1,
+      "tracks": [
+        {
+          "title": "MambaMode",
+          "lyrics_status": "Letras sin formato Letras sincronizadas"
+        }
+      ]
+    },
+    {
+      "release": "Mariana",
+      "artist": "Iyari Gomez",
+      "track_count": 4,
+      "tracks": [
+        {
+          "title": "Centro de gravedad",
+          "lyrics_status": "Letras sin formato Letras sincronizadas"
+        },
+        {
+          "title": "Gravedad",
+          "lyrics_status": "Letras sin formato Letras sincronizadas"
+        },
+        {
+          "title": "Centro",
+          "lyrics_status": "Letras sin formato Letras sincronizadas"
+        },
+        {
+          "title": "Mariana",
+          "lyrics_status": "Letras sin formato Letras sincronizadas"
+        }
+      ]
+    },
+    {
+      "release": "Martinez",
+      "artist": "Iyari Gomez",
+      "track_count": 1,
+      "tracks": [
+        {
+          "title": "Martinez",
+          "lyrics_status": "Letras sin formato Letras sincronizadas"
+        }
+      ]
+    },
+    {
+      "release": "Mary Jane my love",
+      "artist": "Iyari Gomez",
+      "track_count": 1,
+      "tracks": [
+        {
+          "title": "Mary Jane my love",
+          "lyrics_status": "Letras sin formato Letras sincronizadas"
+        }
+      ]
+    },
+    {
+      "release": "Me encanta",
+      "artist": "Iyari Gomez",
+      "track_count": 1,
+      "tracks": [
+        {
+          "title": "Me encanta",
+          "lyrics_status": "Letras sin formato Letras sincronizadas"
+        }
+      ]
+    },
+    {
+      "release": "Me loquie",
+      "artist": "Iyari Gomez",
+      "track_count": 1,
+      "tracks": [
+        {
+          "title": "Me loquie",
+          "lyrics_status": "Letras sin formato Letras sincronizadas"
+        }
+      ]
+    },
+    {
+      "release": "Midnight",
+      "artist": "Iyari Gomez",
+      "track_count": 1,
+      "tracks": [
+        {
+          "title": "Midnight",
+          "lyrics_status": "Letras sin formato Letras sincronizadas"
+        }
+      ]
+    },
+    {
+      "release": "Midnight Glow LIVE",
+      "artist": "Iyari Gomez",
+      "track_count": 1,
+      "tracks": [
+        {
+          "title": "Midnight Glow LIVE",
+          "lyrics_status": "Letras sin formato Letras sincronizadas"
+        }
+      ]
+    },
+    {
+      "release": "Midnight Motion",
+      "artist": "Iyari Gomez",
+      "track_count": 2,
+      "tracks": [
+        {
+          "title": "Midnight",
+          "lyrics_status": "Letras sin formato Letras sincronizadas"
+        },
+        {
+          "title": "Motion",
+          "lyrics_status": "Letras sin formato Letras sincronizadas"
+        }
+      ]
+    },
+    {
+      "release": "Midnigth Glow",
+      "artist": "Iyari Gomez",
+      "track_count": 1,
+      "tracks": [
+        {
+          "title": "Midnigth Glow",
+          "lyrics_status": "Letras sin formato Letras sincronizadas"
+        }
+      ]
+    },
+    {
+      "release": "Mira arriba",
+      "artist": "Iyari Gomez",
+      "track_count": 1,
+      "tracks": [
+        {
+          "title": "Mira arriba",
+          "lyrics_status": "Letras sin formato Letras sincronizadas"
+        }
+      ]
+    },
+    {
+      "release": "MissDiablo",
+      "artist": "Iyari Gomez",
+      "track_count": 1,
+      "tracks": [
+        {
+          "title": "MissDiablo",
+          "lyrics_status": "Letras sin formato Letras sincronizadas"
+        }
+      ]
+    },
+    {
+      "release": "MJ",
+      "artist": "Iyari Gomez",
+      "track_count": 1,
+      "tracks": [
+        {
+          "title": "MJ",
+          "lyrics_status": "Letras sin formato Letras sincronizadas"
+        }
+      ]
+    },
+    {
+      "release": "Moonlight",
+      "artist": "Iyari Gomez",
+      "track_count": 1,
+      "tracks": [
+        {
+          "title": "Moonlight",
+          "lyrics_status": "Letras sin formato Letras sincronizadas"
+        }
+      ]
+    },
+    {
+      "release": "Morena",
+      "artist": "Iyari Gomez",
+      "track_count": 1,
+      "tracks": [
+        {
+          "title": "Morena",
+          "lyrics_status": "Letras sin formato Letras sincronizadas"
+        }
+      ]
+    },
+    {
+      "release": "Morrigan",
+      "artist": "Iyari Gomez",
+      "track_count": 1,
+      "tracks": [
+        {
+          "title": "Morrigan",
+          "lyrics_status": "Instrumental"
+        }
+      ]
+    },
+    {
+      "release": "MotorChampion",
+      "artist": "Iyari Gomez",
+      "track_count": 1,
+      "tracks": [
+        {
+          "title": "MotorChampion",
+          "lyrics_status": "Letras sin formato Letras sincronizadas"
+        }
+      ]
+    },
+    {
+      "release": "Mundo Entero",
+      "artist": "Iyari Gomez",
+      "track_count": 1,
+      "tracks": [
+        {
+          "title": "Mundo Entero",
+          "lyrics_status": "Letras sin formato Letras sincronizadas"
+        }
+      ]
+    },
+    {
+      "release": "My own",
+      "artist": "Iyari Gomez",
+      "track_count": 2,
+      "tracks": [
+        {
+          "title": "So Stoned",
+          "lyrics_status": "Letras sin formato Letras sincronizadas"
+        },
+        {
+          "title": "Melting",
+          "lyrics_status": "Letras sin formato Letras sincronizadas"
+        }
+      ]
+    },
+    {
+      "release": "My Own Deamon",
+      "artist": "Iyari Gomez",
+      "track_count": 1,
+      "tracks": [
+        {
+          "title": "My Own Deamon",
+          "lyrics_status": "Letras sin formato Letras sincronizadas"
+        }
+      ]
+    },
+    {
+      "release": "Neon Butterfflys",
+      "artist": "Iyari Gomez",
+      "track_count": 2,
+      "tracks": [
+        {
+          "title": "Shadows",
+          "lyrics_status": "Letras sin formato Letras sincronizadas"
+        },
+        {
+          "title": "Butterfflys",
+          "lyrics_status": "Letras sin formato Letras sincronizadas"
+        }
+      ]
+    },
+    {
+      "release": "NexusPrime",
+      "artist": "Iyari Gomez",
+      "track_count": 1,
+      "tracks": [
+        {
+          "title": "NexusPrime",
+          "lyrics_status": "Letras sin formato Letras sincronizadas"
+        }
+      ]
+    },
+    {
+      "release": "Nilo",
+      "artist": "Iyari Gomez",
+      "track_count": 1,
+      "tracks": [
+        {
+          "title": "Nilo",
+          "lyrics_status": "Letras sin formato Letras sincronizadas"
+        }
+      ]
+    },
+    {
+      "release": "No Coment",
+      "artist": "Iyari Gomez",
+      "track_count": 1,
+      "tracks": [
+        {
+          "title": "No Coment",
+          "lyrics_status": "Letras sin formato Letras sincronizadas"
+        }
+      ]
+    },
+    {
+      "release": "Noches en Pijama",
+      "artist": "Iyari Gomez",
+      "track_count": 1,
+      "tracks": [
+        {
+          "title": "Noches en Pijama",
+          "lyrics_status": "Letras sin formato Letras sincronizadas"
+        }
+      ]
+    },
+    {
+      "release": "Noplan",
+      "artist": "Iyari Gomez",
+      "track_count": 1,
+      "tracks": [
+        {
+          "title": "Noplan",
+          "lyrics_status": "Letras sin formato Letras sincronizadas"
+        }
+      ]
+    },
+    {
+      "release": "Ojos de Fuego",
+      "artist": "Iyari Gomez",
+      "track_count": 1,
+      "tracks": [
+        {
+          "title": "Ojos de Fuego",
+          "lyrics_status": "Letras sin formato Letras sincronizadas"
+        }
+      ]
+    },
+    {
+      "release": "One Love Road",
+      "artist": "Iyari Gomez",
+      "track_count": 1,
+      "tracks": [
+        {
+          "title": "One Love Road",
+          "lyrics_status": "Letras sin formato Letras sincronizadas"
+        }
+      ]
+    },
+    {
+      "release": "Only Know How to Love",
+      "artist": "Iyari Gomez",
+      "track_count": 1,
+      "tracks": [
+        {
+          "title": "Only Know How to Love",
+          "lyrics_status": "Letras sin formato Letras sincronizadas"
+        }
+      ]
+    },
+    {
+      "release": "Pass the Ganja",
+      "artist": "Iyari Gomez",
+      "track_count": 1,
+      "tracks": [
+        {
+          "title": "Pass the Ganja",
+          "lyrics_status": "Letras sin formato Letras sincronizadas"
+        }
+      ]
+    },
+    {
+      "release": "PatMarquez",
+      "artist": "Iyari Gomez",
+      "track_count": 2,
+      "tracks": [
+        {
+          "title": "Marquez",
+          "lyrics_status": "Letras sin formato Letras sincronizadas"
+        },
+        {
+          "title": "Pat",
+          "lyrics_status": "Letras sin formato Letras sincronizadas"
+        }
+      ]
+    },
+    {
+      "release": "Perdon Diosito",
+      "artist": "Iyari Gomez",
+      "track_count": 2,
+      "tracks": [
+        {
+          "title": "Perdon",
+          "lyrics_status": "Letras sin formato Letras sincronizadas"
+        },
+        {
+          "title": "Diosito",
+          "lyrics_status": "Letras sin formato Letras sincronizadas"
+        }
+      ]
+    },
+    {
+      "release": "Perla",
+      "artist": "Iyari Gomez",
+      "track_count": 1,
+      "tracks": [
+        {
+          "title": "Perla",
+          "lyrics_status": "Letras sin formato Letras sincronizadas"
+        }
+      ]
+    },
+    {
+      "release": "Personalidad",
+      "artist": "Iyari Gomez",
+      "track_count": 1,
+      "tracks": [
+        {
+          "title": "Personalidad",
+          "lyrics_status": "Letras sin formato Letras sincronizadas"
+        }
+      ]
+    },
+    {
+      "release": "Peso del mundo",
+      "artist": "Iyari Gomez",
+      "track_count": 2,
+      "tracks": [
+        {
+          "title": "Ultima",
+          "lyrics_status": "Letras sin formato Letras sincronizadas"
+        },
+        {
+          "title": "Pagina",
+          "lyrics_status": "Letras sin formato Letras sincronizadas"
+        }
+      ]
+    },
+    {
+      "release": "Plata Fina",
+      "artist": "Iyari Gomez",
+      "track_count": 1,
+      "tracks": [
+        {
+          "title": "Plata Fina",
+          "lyrics_status": "Letras sin formato Letras sincronizadas"
+        }
+      ]
+    },
+    {
+      "release": "Poligonos de luz",
+      "artist": "Iyari Gomez",
+      "track_count": 1,
+      "tracks": [
+        {
+          "title": "Poligonos de luz",
+          "lyrics_status": "Letras sin formato Letras sincronizadas"
+        }
+      ]
+    },
+    {
+      "release": "Poligonos de luz",
+      "artist": "Iyari Gomez",
+      "track_count": 1,
+      "tracks": [
+        {
+          "title": "Poligonos de luz",
+          "lyrics_status": "Letras sin formato Letras sincronizadas"
+        }
+      ]
+    },
+    {
+      "release": "PretzelGirl",
+      "artist": "Iyari Gomez",
+      "track_count": 1,
+      "tracks": [
+        {
+          "title": "PretzelGirl",
+          "lyrics_status": "Letras sin formato Letras sincronizadas"
+        }
+      ]
+    },
+    {
+      "release": "Prisi Perez",
+      "artist": "Iyari Gomez",
+      "track_count": 1,
+      "tracks": [
+        {
+          "title": "Prisi Perez",
+          "lyrics_status": "Letras sin formato Letras sincronizadas"
+        }
+      ]
+    },
+    {
+      "release": "PsyWall",
+      "artist": "Iyari Gomez",
+      "track_count": 1,
+      "tracks": [
+        {
+          "title": "PsyWall",
+          "lyrics_status": "Letras sin formato Letras sincronizadas"
+        }
+      ]
+    },
+    {
+      "release": "Purple Ocean",
+      "artist": "Iyari Gomez",
+      "track_count": 1,
+      "tracks": [
+        {
+          "title": "Purple Ocean",
+          "lyrics_status": "Instrumental"
+        }
+      ]
+    },
+    {
+      "release": "Quantum Luxurious",
+      "artist": "Iyari Gomez",
+      "track_count": 1,
+      "tracks": [
+        {
+          "title": "Quantum Luxurious",
+          "lyrics_status": "Letras sin formato Letras sincronizadas"
+        }
+      ]
+    },
+    {
+      "release": "QuantumForce",
+      "artist": "Iyari Gomez",
+      "track_count": 2,
+      "tracks": [
+        {
+          "title": "Vianey",
+          "lyrics_status": "Letras sin formato Letras sincronizadas"
+        },
+        {
+          "title": "Adriana",
+          "lyrics_status": "Letras sin formato Letras sincronizadas"
+        }
+      ]
+    },
+    {
+      "release": "Raggatech ll",
+      "artist": "Iyari Gomez",
+      "track_count": 1,
+      "tracks": [
+        {
+          "title": "Raggatech ll",
+          "lyrics_status": "Instrumental"
+        }
+      ]
+    },
+    {
+      "release": "Raices de Luz",
+      "artist": "Iyari Gomez",
+      "track_count": 1,
+      "tracks": [
+        {
+          "title": "Raices de Luz",
+          "lyrics_status": "Letras sin formato Letras sincronizadas"
+        }
+      ]
+    },
+    {
+      "release": "Raices de Luz",
+      "artist": "Iyari Gomez",
+      "track_count": 2,
+      "tracks": [
+        {
+          "title": "Raíz de Luz",
+          "lyrics_status": "Letras sin formato Letras sincronizadas"
+        },
+        {
+          "title": "Raices de luz",
+          "lyrics_status": "Letras sin formato Letras sincronizadas"
+        }
+      ]
+    },
+    {
+      "release": "Rain on me",
+      "artist": "Iyari Gomez",
+      "track_count": 1,
+      "tracks": [
+        {
+          "title": "Rain on me",
+          "lyrics_status": "Letras sin formato Letras sincronizadas"
+        }
+      ]
+    },
+    {
+      "release": "Rayo de Luz",
+      "artist": "Iyari Gomez",
+      "track_count": 1,
+      "tracks": [
+        {
+          "title": "Rayo de Luz",
+          "lyrics_status": "Letras sin formato Letras sincronizadas"
+        }
+      ]
+    },
+    {
+      "release": "Reggae Blackmamba",
+      "artist": "Iyari Gomez",
+      "track_count": 1,
+      "tracks": [
+        {
+          "title": "Reggae Blackmamba",
+          "lyrics_status": "Letras sin formato Letras sincronizadas"
+        }
+      ]
+    },
+    {
+      "release": "Reggae FireRoots",
+      "artist": "Iyari Gomez",
+      "track_count": 1,
+      "tracks": [
+        {
+          "title": "Reggae FireRoots",
+          "lyrics_status": "Letras sin formato Letras sincronizadas"
+        }
+      ]
+    },
+    {
+      "release": "Reina de Fuego",
+      "artist": "Iyari Gomez",
+      "track_count": 2,
+      "tracks": [
+        {
+          "title": "Yami",
+          "lyrics_status": "Letras sin formato Letras sincronizadas"
+        },
+        {
+          "title": "Yami II",
+          "lyrics_status": "Letras sin formato Letras sincronizadas"
+        }
+      ]
+    },
+    {
+      "release": "Respira",
+      "artist": "Iyari Gomez",
+      "track_count": 1,
+      "tracks": [
+        {
+          "title": "Respira",
+          "lyrics_status": "Letras sin formato Letras sincronizadas"
+        }
+      ]
+    },
+    {
+      "release": "Rhythm Nation",
+      "artist": "Iyari Gomez",
+      "track_count": 1,
+      "tracks": [
+        {
+          "title": "Rhythm Nation",
+          "lyrics_status": "Letras sin formato Letras sincronizadas"
+        }
+      ]
+    },
+    {
+      "release": "Rise of the Serpent",
+      "artist": "Iyari Gomez",
+      "track_count": 1,
+      "tracks": [
+        {
+          "title": "Rise of the Serpent",
+          "lyrics_status": "Letras sin formato Letras sincronizadas"
+        }
+      ]
+    },
+    {
+      "release": "Rise Up",
+      "artist": "Iyari Gomez",
+      "track_count": 1,
+      "tracks": [
+        {
+          "title": "Rise Up",
+          "lyrics_status": "Letras sin formato Letras sincronizadas"
+        }
+      ]
+    },
+    {
+      "release": "Roar Like a Lion",
+      "artist": "Iyari Gomez",
+      "track_count": 1,
+      "tracks": [
+        {
+          "title": "Roar Like a Lion",
+          "lyrics_status": "Letras sin formato Letras sincronizadas"
+        }
+      ]
+    },
+    {
+      "release": "Roots and Bass",
+      "artist": "Iyari Gomez",
+      "track_count": 1,
+      "tracks": [
+        {
+          "title": "Roots and Bass",
+          "lyrics_status": "Letras sin formato Letras sincronizadas"
+        }
+      ]
+    },
+    {
+      "release": "Roots And Culture",
+      "artist": "Iyari Gomez",
+      "track_count": 2,
+      "tracks": [
+        {
+          "title": "Roots",
+          "lyrics_status": "Letras sin formato Letras sincronizadas"
+        },
+        {
+          "title": "Culture",
+          "lyrics_status": "Letras sin formato Letras sincronizadas"
+        }
+      ]
+    },
+    {
+      "release": "Roots of the Legend",
+      "artist": "Iyari Gomez",
+      "track_count": 1,
+      "tracks": [
+        {
+          "title": "Roots of the Legend",
+          "lyrics_status": "Letras sin formato Letras sincronizadas"
+        }
+      ]
+    },
+    {
+      "release": "Ruth Gomez",
+      "artist": "Iyari Gomez",
+      "track_count": 2,
+      "tracks": [
+        {
+          "title": "Fuego en la Vision.",
+          "lyrics_status": "Letras sin formato Letras sincronizadas"
+        },
+        {
+          "title": "Aprende a Escuchar",
+          "lyrics_status": "Letras sin formato Letras sincronizadas"
+        }
+      ]
+    },
+    {
+      "release": "Saffron Static",
+      "artist": "Iyari Gomez",
+      "track_count": 1,
+      "tracks": [
+        {
+          "title": "Saffron Static",
+          "lyrics_status": "Letras sin formato Letras sincronizadas"
+        }
+      ]
+    },
+    {
+      "release": "Sangre de Dios",
+      "artist": "Iyari Gomez",
+      "track_count": 1,
+      "tracks": [
+        {
+          "title": "Sangre de Dios",
+          "lyrics_status": "Letras sin formato Letras sincronizadas"
+        }
+      ]
+    },
+    {
+      "release": "Sarai Garcia",
+      "artist": "Iyari Gomez",
+      "track_count": 1,
+      "tracks": [
+        {
+          "title": "Sarai Garcia",
+          "lyrics_status": "Letras sin formato Letras sincronizadas"
+        }
+      ]
+    },
+    {
+      "release": "Scarlet",
+      "artist": "Iyari Gomez",
+      "track_count": 4,
+      "tracks": [
+        {
+          "title": "Firme",
+          "lyrics_status": "Letras sin formato Letras sincronizadas"
+        },
+        {
+          "title": "Tormenta",
+          "lyrics_status": "Letras sin formato Letras sincronizadas"
+        },
+        {
+          "title": "Mala Intencion",
+          "lyrics_status": "Letras sin formato Letras sincronizadas"
+        },
+        {
+          "title": "Valiente",
+          "lyrics_status": "Letras sin formato Letras sincronizadas"
+        }
+      ]
+    },
+    {
+      "release": "Se me olvido",
+      "artist": "Iyari Gomez",
+      "track_count": 1,
+      "tracks": [
+        {
+          "title": "Se me olvido",
+          "lyrics_status": "Letras sin formato Letras sincronizadas"
+        }
+      ]
+    },
+    {
+      "release": "Si me queria...",
+      "artist": "Iyari Gomez",
+      "track_count": 1,
+      "tracks": [
+        {
+          "title": "Si me queria...",
+          "lyrics_status": "Letras sin formato Letras sincronizadas"
+        }
+      ]
+    },
+    {
+      "release": "Signal",
+      "artist": "Iyari Gomez",
+      "track_count": 1,
+      "tracks": [
+        {
+          "title": "Signal",
+          "lyrics_status": "Letras sin formato Letras sincronizadas"
+        }
+      ]
+    },
+    {
+      "release": "Sinceramente",
+      "artist": "Iyari Gomez",
+      "track_count": 2,
+      "tracks": [
+        {
+          "title": "Cuando te veo",
+          "lyrics_status": "Instrumental"
+        },
+        {
+          "title": "No te veo",
+          "lyrics_status": "Instrumental"
+        }
+      ]
+    },
+    {
+      "release": "Sky",
+      "artist": "Iyari Gomez",
+      "track_count": 1,
+      "tracks": [
+        {
+          "title": "Sky",
+          "lyrics_status": "Letras sin formato Letras sincronizadas"
+        }
+      ]
+    },
+    {
+      "release": "Sky High Dreaming",
+      "artist": "Iyari Gomez",
+      "track_count": 1,
+      "tracks": [
+        {
+          "title": "Sky High Dreaming",
+          "lyrics_status": "Letras sin formato Letras sincronizadas"
+        }
+      ]
+    },
+    {
+      "release": "Solo si tu antes",
+      "artist": "Iyari Gomez",
+      "track_count": 1,
+      "tracks": [
+        {
+          "title": "Solo si tu antes",
+          "lyrics_status": "Letras sin formato Letras sincronizadas"
+        }
+      ]
+    },
+    {
+      "release": "Solsticio de Verano",
+      "artist": "Iyari Gomez",
+      "track_count": 1,
+      "tracks": [
+        {
+          "title": "Solsticio de Verano",
+          "lyrics_status": "Letras sin formato Letras sincronizadas"
+        }
+      ]
+    },
+    {
+      "release": "SpyderLove",
+      "artist": "Iyari Gomez",
+      "track_count": 1,
+      "tracks": [
+        {
+          "title": "SpyderLove",
+          "lyrics_status": "Letras sin formato Letras sincronizadas"
+        }
+      ]
+    },
+    {
+      "release": "Stand Firm",
+      "artist": "Iyari Gomez",
+      "track_count": 2,
+      "tracks": [
+        {
+          "title": "Stand",
+          "lyrics_status": "Letras sin formato Letras sincronizadas"
+        },
+        {
+          "title": "Firm",
+          "lyrics_status": "Letras sin formato Letras sincronizadas"
+        }
+      ]
+    },
+    {
+      "release": "Stoned",
+      "artist": "Iyari Gomez",
+      "track_count": 1,
+      "tracks": [
+        {
+          "title": "Stoned",
+          "lyrics_status": "Letras sin formato Letras sincronizadas"
+        }
+      ]
+    },
+    {
+      "release": "Suave Maravilla",
+      "artist": "Iyari Gomez",
+      "track_count": 2,
+      "tracks": [
+        {
+          "title": "Suave Maravilla",
+          "lyrics_status": "Letras sin formato Letras sincronizadas"
+        },
+        {
+          "title": "Bajo el Sol",
+          "lyrics_status": "Letras sin formato Letras sincronizadas"
+        }
+      ]
+    },
+    {
+      "release": "Sumidero",
+      "artist": "Iyari Gomez",
+      "track_count": 1,
+      "tracks": [
+        {
+          "title": "Sumidero",
+          "lyrics_status": "Letras sin formato Letras sincronizadas"
+        }
+      ]
+    },
+    {
+      "release": "Sunset",
+      "artist": "Iyari Gomez",
+      "track_count": 1,
+      "tracks": [
+        {
+          "title": "Sunset",
+          "lyrics_status": "Letras sin formato Letras sincronizadas"
+        }
+      ]
+    },
+    {
+      "release": "Te Pienso (Belari Filobello)",
+      "artist": "Iyari Gomez",
+      "track_count": 1,
+      "tracks": [
+        {
+          "title": "Te Pienso (Belari Filobello)",
+          "lyrics_status": "Letras sin formato Letras sincronizadas"
+        }
+      ]
+    },
+    {
+      "release": "The Circo",
+      "artist": "Iyari Gomez",
+      "track_count": 1,
+      "tracks": [
+        {
+          "title": "The Circo",
+          "lyrics_status": "Letras sin formato Letras sincronizadas"
+        }
+      ]
+    },
+    {
+      "release": "The Energy",
+      "artist": "Iyari Gomez",
+      "track_count": 1,
+      "tracks": [
+        {
+          "title": "The Energy",
+          "lyrics_status": "Letras sin formato Letras sincronizadas"
+        }
+      ]
+    },
+    {
+      "release": "Time",
+      "artist": "Iyari Gomez",
+      "track_count": 1,
+      "tracks": [
+        {
+          "title": "Time",
+          "lyrics_status": "Letras sin formato Letras sincronizadas"
+        }
+      ]
+    },
+    {
+      "release": "Tlatoani (TribalTechno Version)",
+      "artist": "Iyari Gomez",
+      "track_count": 1,
+      "tracks": [
+        {
+          "title": "Tlatoani (TribalTechno Version)",
+          "lyrics_status": "Letras sin formato Letras sincronizadas"
+        }
+      ]
+    },
+    {
+      "release": "Toda Mi Vida",
+      "artist": "Iyari Gomez",
+      "track_count": 1,
+      "tracks": [
+        {
+          "title": "Toda Mi Vida",
+          "lyrics_status": "Letras sin formato Letras sincronizadas"
+        }
+      ]
+    },
+    {
+      "release": "Tus Ojos",
+      "artist": "Iyari Gomez",
+      "track_count": 1,
+      "tracks": [
+        {
+          "title": "Tus Ojos",
+          "lyrics_status": "Letras sin formato Letras sincronizadas"
+        }
+      ]
+    },
+    {
+      "release": "Ultima Página",
+      "artist": "Iyari Gomez",
+      "track_count": 1,
+      "tracks": [
+        {
+          "title": "Ultima Página",
+          "lyrics_status": "Letras sin formato Letras sincronizadas"
+        }
+      ]
+    },
+    {
+      "release": "Vale",
+      "artist": "Iyari Gomez",
+      "track_count": 1,
+      "tracks": [
+        {
+          "title": "Vale",
+          "lyrics_status": "Letras sin formato Letras sincronizadas"
+        }
+      ]
+    },
+    {
+      "release": "Vale",
+      "artist": "Iyari Gomez",
+      "track_count": 2,
+      "tracks": [
+        {
+          "title": "Fuego",
+          "lyrics_status": "Letras sin formato Letras sincronizadas"
+        },
+        {
+          "title": "Natural",
+          "lyrics_status": "Letras sin formato Letras sincronizadas"
+        }
+      ]
+    },
+    {
+      "release": "VeroH",
+      "artist": "Iyari Gomez",
+      "track_count": 1,
+      "tracks": [
+        {
+          "title": "VeroH",
+          "lyrics_status": "Letras sin formato Letras sincronizadas"
+        }
+      ]
+    },
+    {
+      "release": "Vian",
+      "artist": "Iyari Gomez",
+      "track_count": 1,
+      "tracks": [
+        {
+          "title": "Vian",
+          "lyrics_status": "Letras sin formato Letras sincronizadas"
+        }
+      ]
+    },
+    {
+      "release": "Vibration",
+      "artist": "Iyari Gomez",
+      "track_count": 1,
+      "tracks": [
+        {
+          "title": "Vibration",
+          "lyrics_status": "Letras sin formato Letras sincronizadas"
+        }
+      ]
+    },
+    {
+      "release": "Viento",
+      "artist": "Iyari Gomez",
+      "track_count": 1,
+      "tracks": [
+        {
+          "title": "Viento",
+          "lyrics_status": "Letras sin formato Letras sincronizadas"
+        }
+      ]
+    },
+    {
+      "release": "Vinculo",
+      "artist": "Iyari Gomez",
+      "track_count": 1,
+      "tracks": [
+        {
+          "title": "Vinculo",
+          "lyrics_status": "Letras sin formato Letras sincronizadas"
+        }
+      ]
+    },
+    {
+      "release": "Viuda Negra",
+      "artist": "Iyari Gomez",
+      "track_count": 1,
+      "tracks": [
+        {
+          "title": "Viuda Negra",
+          "lyrics_status": "Letras sin formato Letras sincronizadas"
+        }
+      ]
+    },
+    {
+      "release": "Warp",
+      "artist": "Iyari Gomez",
+      "track_count": 1,
+      "tracks": [
+        {
+          "title": "Warp",
+          "lyrics_status": "Letras sin formato Letras sincronizadas"
+        }
+      ]
+    },
+    {
+      "release": "Whispers",
+      "artist": "Iyari Gomez",
+      "track_count": 1,
+      "tracks": [
+        {
+          "title": "Whispers",
+          "lyrics_status": "Letras sin formato Letras sincronizadas"
+        }
+      ]
+    },
+    {
+      "release": "whit Fire",
+      "artist": "Iyari Gomez",
+      "track_count": 1,
+      "tracks": [
+        {
+          "title": "whit Fire",
+          "lyrics_status": "Letras sin formato Letras sincronizadas"
+        }
+      ]
+    },
+    {
+      "release": "Wild",
+      "artist": "Iyari Gomez",
+      "track_count": 1,
+      "tracks": [
+        {
+          "title": "Wild",
+          "lyrics_status": "Letras sin formato Letras sincronizadas"
+        }
+      ]
+    },
+    {
+      "release": "Wind Reggae",
+      "artist": "Iyari Gomez",
+      "track_count": 1,
+      "tracks": [
+        {
+          "title": "Wind Reggae",
+          "lyrics_status": "Letras sin formato Letras sincronizadas"
+        }
+      ]
+    },
+    {
+      "release": "Ya se respira mejor",
+      "artist": "Iyari Gomez",
+      "track_count": 1,
+      "tracks": [
+        {
+          "title": "Ya se respira mejor",
+          "lyrics_status": "Letras sin formato Letras sincronizadas"
+        }
+      ]
+    },
+    {
+      "release": "Yaneth",
+      "artist": "Iyari Gomez",
+      "track_count": 2,
+      "tracks": [
+        {
+          "title": "Seriesita Mendez",
+          "lyrics_status": "Letras sin formato Letras sincronizadas"
+        },
+        {
+          "title": "Yaneth la Seriesita",
+          "lyrics_status": "Letras sin formato Letras sincronizadas"
+        }
+      ]
+    },
+    {
+      "release": "Your Hands",
+      "artist": "Iyari Gomez",
+      "track_count": 1,
+      "tracks": [
+        {
+          "title": "Your Hands",
+          "lyrics_status": "Letras sin formato Letras sincronizadas"
+        }
+      ]
+    }
+  ]
+}
