@@ -1,0 +1,12 @@
+field,required,source,notes
+title,yes,SoundCloud,Canonical display title
+artwork_url,yes,SoundCloud,Track-specific 3000x3000 cover preferred
+genre,yes,SoundCloud,Primary genre
+description,yes,SoundCloud,Credits context and release information
+tags,yes,SoundCloud,Search and discovery tags
+bpm,recommended,analysis_or_manual,Tempo
+key,recommended,analysis_or_manual,Musical key
+permalink_url,yes,SoundCloud,Public track URL
+distrokid_status,derived,reconciliation,matched soundcloud_only or distrokid_only
+isrc,recommended,DistroKid,Stable recording identifier
+label,recommended,DistroKid,BlackMamba RECORDS
